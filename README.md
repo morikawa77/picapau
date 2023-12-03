@@ -1,18 +1,6 @@
-## Getting Started
+## Um pra você, um pra mim
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A animação Pica-Pau (Woody WoodpeckerTM, no original) é um clássico reprisado há décadas nas redes de televisão. No episódio Esperto contra sabido (1964), o Raposo Fink divide alguns alimentos com o protagonista, porém de forma questionável, pois no fim nada sobra para o Pica-Pau.
+Após assistirem ao episódio, você e seu melhor amigo decidiram esvaziar o cofrinho em que ambos guardam suas economias e dividi-las. Como no cofrinho há apenas notas (2, 5, 10, 20, 50 e 100 reais), a sugestão foi coletar uma nota qualquer e dar para um dos dois. Na sequência, coleta-se outra nota e dá-se a quem não ganhou a anterior, e assim sucessivamente, até acabarem as notas. Seu amigo quer saber quanto dinheiro cada um terá no final. Você, um bom desenvolvedor, enxergou a oportunidade de automatizar o processo, construindo um PROGRAMA EM LINGUAGEM JAVA que o usuário informa quem ganha a primeira nota, a quantidade de notas que tem no cofrinho e a sequência de notas coletadas. A saída de dados deve informar quem ganhou mais dinheiro e exibir quanto cada um ganhou.
+Entrada A entrada é composta por um caractere, indicando quem ganhará a primeira nota, 'V' (você) ou
+'A' (seu amigo); a quantidade de notas e cada uma com um valor natural representando uma nota. Saída deve imprimir o seu total de reais e o total de seu amigo.
