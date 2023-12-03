@@ -14,8 +14,10 @@ public class App2 {
         quantidadeNotas = leia.nextInt();
         
         for(int i = quantidadeNotas; i > 0; i--){
+            System.out.println("Digite o valor da nota:");
             valorNotaAtual = leia.nextInt();
-            if ((quantidadeNotas - 1) % 2 != 0) {
+            // if ((quantidadeNotas - 1) % 2 != 0) {
+            if (quantidadeNotas % 2 != 0) {
                 primeiroValor += valorNotaAtual;
             } else {
                 segundoValor += valorNotaAtual;
